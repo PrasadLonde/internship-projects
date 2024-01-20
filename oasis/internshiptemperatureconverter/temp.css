@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(232, 240, 199);
+    color: rgb(4, 4, 4);
+    margin-top: 50px;
+}
+
+input, select, button {
+    margin: 10px;
+    padding: 5px;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
